@@ -2,7 +2,7 @@
 
 This repository contains a [Jupyter notebook](https://jupyter.org/) showcasing 
 some of the distinguishing features of the molecular dynamics engine OpenMM. 
-i
+
 To run it, download or clone the repository and execute
 
 ```
