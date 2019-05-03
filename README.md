@@ -1,12 +1,12 @@
 # OpenMM Journal Club Presentation
 
-This repository contains a Jupyter notebook showcasing the features of the 
-Molecular Dynamics engine OpenMM.
+This repository contains a Jupyter notebook showcasing some of the 
+distinguishing features of the molecular dynamics engine OpenMM.
 
-To run it, download or clone the repository and run 
+To run it, download or clone the repository and execute
 
 ```
-juyter notebook openmm_overview.ipynb
+jupyter notebook openmm_overview.ipynb
 ```
 
 from the `notebooks` directory.
